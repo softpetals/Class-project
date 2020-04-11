@@ -6,7 +6,7 @@
 body {
     margin: 0px auto;
     width: 960px;
-    background-color: greenyellow;
+    background-color:#FFE2E0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(31, 44, 4);
   }
@@ -39,18 +39,18 @@ body {
     display: inline-block;
     width: 100px;
     border-radius: 25px;
-    background-color: green;
+    background-color:#CCB5B4;
     margin: 5px;
     text-align: center;
     border: 1px solid black;
   }
   
   #id-first {
-    background-color: rgb(193, 155, 221);
+    background-color: #FFE2E0;
   }
   
   .class-blue {
-    background-color: lightskyblue;
+    background-color:#FF9B94;
   }
   
   header > nav > ul > li > a {
@@ -67,6 +67,6 @@ body {
   /* footer */
   
   p {
-    background-color: aquamarine;
-    color: red;
+    background-color: #877877;
+    color: #FFE2E0;
   }
